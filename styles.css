@@ -1,6 +1,7 @@
 body {
   background-color: rgb(241, 169, 232);
 }
+
 .pizzas {
   display: flex;
 }
@@ -8,10 +9,10 @@ body {
 .pizza {
   background-color: aquamarine;
   margin: 0.3cm;
-  padding: 1m;
+  padding: 1cm;
   border-radius: 1cm;
   border: 1px solid #1d3557;
-  margin-bottom: 0.5 cm;
+  margin-bottom: 0.5cm;
   width: 25%;
   display: block;
 }
@@ -19,7 +20,7 @@ body {
 .small_pizza {
   background-color: rgb(219, 113, 118);
   margin: 0.3cm;
-  padding: 1m;
+  padding: 1cm;
   border-radius: 1cm;
   border: 1px solid #1d3557;
   flex: 2;
@@ -28,7 +29,7 @@ body {
 .medium_pizza {
   background-color: rgb(231, 149, 94);
   margin: 0.3cm;
-  padding: 1m;
+  padding: 1cm;
   border-radius: 1cm;
   border: 1px solid #1d3557;
   flex: 2;
@@ -37,16 +38,16 @@ body {
 .large_pizza {
   background-color: rgb(255, 163, 235);
   margin: 0.3cm;
-  padding: 1m;
+  padding: 1cm;
   border-radius: 1cm;
   border: 1px solid #1d3557;
   flex: 2;
 }
 
-.contact us {
+.contact_us {
   background-color: rgb(141, 34, 241);
   margin: 0.3cm;
-  padding: 1m;
+  padding: 1cm;
   border-radius: 1cm;
   border: 1px solid #1d3557;
 }
