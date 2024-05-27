@@ -32,7 +32,7 @@ body {
   padding: 1cm;
   border-radius: 1cm;
   border: 1px solid #1d3557;
-  flex: 2;
+  flex: 1;
 }
 
 .large_pizza {
@@ -41,7 +41,7 @@ body {
   padding: 1cm;
   border-radius: 1cm;
   border: 1px solid #1d3557;
-  flex: 2;
+  flex: 1;
 }
 
 .contact_us {
