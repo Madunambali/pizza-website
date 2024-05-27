@@ -1,4 +1,4 @@
-8body {
+body {
   background-color: rgb(241, 169, 232);
 }
 
@@ -53,13 +53,13 @@
 }
 @media (min-width: 600px) {
   .pizza {
-    flex: 1 1 calc(48% - 2.6cm); /* Half width minus margin for medium screens */
+    flex: 1 1 calc(48% - 2.6cm); 
   }
 }
 
 @media (min-width: 900px) {
   .pizza {
-    flex: 1 1 calc(32% - 2.6cm); /* Third width minus margin for large screens */
+    flex: 1 1 calc(32% - 2.6cm); 
   }
 }
 @media (min-width: 650px) {
