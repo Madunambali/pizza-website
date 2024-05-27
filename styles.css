@@ -52,7 +52,7 @@ body {
   border: 1px solid #1d3557;
 }
 
-@media (min-width: 760px) {
+@media (min-width: 650px) {
   body {
     background-color: blanchedalmond;
   }
