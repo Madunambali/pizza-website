@@ -52,14 +52,14 @@ body {
   border: 1px solid #1d3557;
 }
 
-@media (min-width: 650px) {
-  body {
-    background-color: blanchedalmond;
-  }
-}
-
-@media (min-width: 960px) {
-  body {
-    background-color: blanchedalmond;
-  }
-}
+@media screen and (min-width: 960px) {
+    .name{
+      display: flex;  
+    
+      justify-content: space-between;
+    }
+    .mbali{
+        display: flex;  
+    
+      justify-content: space-between;
+    }
