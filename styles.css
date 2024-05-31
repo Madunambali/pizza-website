@@ -53,12 +53,17 @@ body {
 }
 
 @media screen and (min-width: 960px) {
-    .name{
+    .small_pizza{
       display: flex;  
     
       justify-content: space-between;
     }
-    .mbali{
+    .medium_pizza{
+        display: flex;  
+    
+      justify-content: space-between;
+    }
+  .large_pizza{
         display: flex;  
     
       justify-content: space-between;
