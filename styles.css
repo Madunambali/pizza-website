@@ -52,19 +52,4 @@ body {
   border: 1px solid #1d3557;
 }
 
-@media screen and (min-width: 960px) {
-    .small_pizza{
-      display: flex;  
-    
-  
- }
-    .medium_pizza{
-        display: flex;  
-    
-  
-    }
-  .large_pizza{
-        display: flex;  
-    
-    
-    }
+
