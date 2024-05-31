@@ -1,55 +1,70 @@
-body {
-  background-color: rgb(241, 169, 232);
+bbody{
+  background-color: rgb(241, 169, 232)
+  
 }
-
-.pizzas {
+.pizzas{
   display: flex;
+
+
 }
 
-.pizza {
-  background-color: aquamarine;
-  margin: 0.3cm;
-  padding: 1cm;
-  border-radius: 1cm;
-  border: 1px solid #1d3557;
-  margin-bottom: 0.5cm;
-  width: 25%;
-  display: block;
+.pizza{
+background-color: aquamarine;
+margin: 0.3cm ;
+padding: 1m ;
+border-radius: 1cm ;
+border: 1px solid #1D3557;
+margin-bottom: 0.5 cm;
+width: 25%;
+display: block;
+
 }
 
-.small_pizza {
-  background-color: rgb(219, 113, 118);
-  margin: 0.3cm;
-  padding: 1cm;
-  border-radius: 1cm;
-  border: 1px solid #1d3557;
-  flex: 2;
+.small_pizza{
+background-color:rgb(219, 113, 118);
+margin: 0.3cm ;
+padding: 1m ;
+border-radius: 1cm ;
+border: 1px solid #1D3557;
+flex: 2
 }
 
-.medium_pizza {
-  background-color: rgb(231, 149, 94);
-  margin: 0.3cm;
-  padding: 1cm;
-  border-radius: 1cm;
-  border: 1px solid #1d3557;
-  flex: 1;
+.medium_pizza{
+background-color: rgb(231, 149, 94);
+margin: 0.3cm ;
+padding: 1m ;
+border-radius: 1cm ;
+border: 1px solid #1D3557;
+flex: 2
 }
 
-.large_pizza {
-  background-color: rgb(255, 163, 235);
-  margin: 0.3cm;
-  padding: 1cm;
-  border-radius: 1cm;
-  border: 1px solid #1d3557;
-  flex: 1;
+.large_pizza{
+background-color: rgb(255, 163, 235);
+margin: 0.3cm ;
+padding: 1m ;
+border-radius: 1cm ;
+border: 1px solid #1D3557;
+flex: 2
 }
 
-.contact_us {
-  background-color: rgb(141, 34, 241);
-  margin: 0.3cm;
-  padding: 1cm;
-  border-radius: 1cm;
-  border: 1px solid #1d3557;
+.contact us{
+background-color: rgb(141, 34, 241);
+margin: 0.3cm ;
+padding: 1m ;
+border-radius: 1cm ;
+border: 1px solid #1D3557;
 }
 
+@media (min-width: 760px){
+   body{
+    background-color: blanchedalmond;
+   }
+   
+}
 
+@media (min-width: 960px){
+body{
+  background-color: blanchedalmond;
+}
+ 
+}
