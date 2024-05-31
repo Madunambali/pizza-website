@@ -56,15 +56,15 @@ body {
     .small_pizza{
       display: flex;  
     
-      justify-content: space-between;
-    }
+  
+ }
     .medium_pizza{
         display: flex;  
     
-      justify-content: space-between;
+  
     }
   .large_pizza{
         display: flex;  
     
-      justify-content: space-between;
+    
     }
