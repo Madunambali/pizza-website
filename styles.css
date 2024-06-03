@@ -54,5 +54,7 @@ body {
 @media (min-width: 960px) {
   body {
     background-color: blanchedalmond;
+    .pizzas{
+      display: flex;
   }
 }
